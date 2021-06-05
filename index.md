@@ -7,7 +7,9 @@ We gained experience creating and deconstructing objects and to make properties.
 We focused on creating the object of a car with metadata about the type of car.
 This lab had us create a module with code to gain experince exporting and retrieving data from a code module.
 This was also an introduction to arrow function notation which was widely used throughout the remainder of the course.
-
+   
+**[lab 03 Repo](https://github.com/UO-CIT-Myles-P-D/cit281-lab03)**
+   
 ## Code:
 **[Here](https://github.com/Myles-P-D/cit281-lab03/blob/main/lab-03.js)** is a link to the full code and below is a screenshot of exporting a module. 
 
