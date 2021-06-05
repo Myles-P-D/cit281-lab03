@@ -9,10 +9,11 @@ This lab had us create a module with code to gain experince exporting and retrie
 This was also an introduction to arrow function notation which was widely used throughout the remainder of the course.
    
 **[lab 03 Repo](https://github.com/UO-CIT-Myles-P-D/cit281-lab03)**
-   
-## Code:
-**[Here](https://github.com/Myles-P-D/cit281-lab03/blob/main/lab-03.js)** is a link to the full code and below is a screenshot of exporting a module. 
-
+    
+## Code:     
+    
+**[Here](https://github.com/Myles-P-D/cit281-lab03/blob/main/lab-03.js)** is a link to the full code and below is a screenshot of exporting a module.     
+    
 ```javascript
 const { reverseString, concatenateString } = require('./lab-03-module.js')
 
@@ -31,7 +32,10 @@ let car = {
     ]
 }
 ```
-## Images: 
-This is an image from the code module to set it up to export. 
-![Module export](https://github.com/Myles-P-D/cit281-lab03/blob/main/moduleExport.png?raw=true "Module Export example")
+    
+## Images:     
+    
+This is an image from the code module to set it up to export.     
+    
+![Module export](https://github.com/Myles-P-D/cit281-lab03/blob/main/moduleExport.png?raw=true "Module Export example")    
 
